@@ -1,9 +1,24 @@
-# Gerador_de_img
+# Gerador de Imagem com IA
+# Descrição
+Este projeto é uma aplicação web que converte texto em imagem utilizando JavaScript. O usuário pode descrever a imagem que deseja ver e a ferramenta gera automaticamente uma ou mais imagens com base na descrição fornecida.
 
-Neste site personalizado de geração de imagens de IA, os usuários inserem seu prompt, escolhem o número de imagens que desejam gerar e clicam no botão "Gerar". A IA criará imagens com base no prompt do usuário. Para baixar cada imagem, o usuário pode clicar no botão de download correspondente fornecido.
-Foi usuado a API OpenAI para gerar imagens. ( A API da OpenAI oferece acesso a modelos de IA poderosos como o GPT-4, DALL-E e Whisper, permitindo que desenvolvedores integrem funcionalidades avançadas de IA em suas aplicações)
+# Funcionalidades
+Entrada de Texto: O usuário pode inserir uma descrição textual da imagem desejada.
 
-Obs:O mesmo nao esta gerando mais imagens sem o pagamento da assinatura da openIA.
+Seleção de Quantidade: Permite escolher o número de imagens a serem geradas (de 1 a 4).
+
+Geração de Imagens: Converte o texto em imagens utilizando uma ferramenta de inteligência artificial.
+
+Galeria de Imagens: Exibe as imagens geradas em uma galeria.
+
+# Tecnologias Utilizadas
+HTML: Estrutura básica da aplicação web.
+
+CSS: Estilização e design responsivo da aplicação.
+
+JavaScript: Lógica de conversão de texto em imagem e manipulação da DOM.
+
+Foi usuado a API OpenAI para gerar imagens.
 
  https://thaleshenriq.github.io/Gerador_de_img/
 
